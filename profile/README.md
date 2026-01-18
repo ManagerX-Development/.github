@@ -2,7 +2,7 @@
 
 ## Was wir machen
 
-ManagerX Development entwickelt moderne Management-Software für Unternehmen.
+ManagerX Development entwickelt moderne Management-Software für Discords Servern.
 
 ## Team
 
